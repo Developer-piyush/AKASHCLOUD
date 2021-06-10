@@ -41,9 +41,6 @@ if (typeof window.web3 !== 'undefined' && typeof window.web3.currentProvider !==
 }
 ```
 
-## Contributing
-
-Please help better the ecosystem by submitting issues and pull requests to default. We need all the help we can get to build the absolute best linting standards and utilities. We follow the AirBNB linting standard and the unix philosophy.
 
 ## Guides
 
@@ -51,26 +48,7 @@ Please see the Ethereum RPC specification hosted on their github:
 
 https://github.com/ethereum/wiki/wiki/JSON-RPC
 
-## Help out
 
-There is always a lot of work to do, and will have many rules to maintain. So please help out in any way that you can:
-
-- Create, enhance, and debug ethjs rules (see our guide to ["Working on rules"](./github/CONTRIBUTING.md)).
-- Improve documentation.
-- Chime in on any open issue or pull request.
-- Open new issues about your ideas for making `ethjs-schema` better, and pull requests to show us how your idea works.
-- Add new tests to *absolutely anything*.
-- Spread the word.
-
-Please consult our [Code of Conduct](CODE_OF_CONDUCT.md) docs before helping out.
-
-We communicate via [issues](https://github.com/ethjs/ethjs-schema/issues) and [pull requests](https://github.com/ethjs/ethjs-schema/pulls).
-
-## Important documents
-
-- [Changelog](CHANGELOG.md)
-- [Code of Conduct](CODE_OF_CONDUCT.md)
-- [License](https://raw.githubusercontent.com/ethjs/ethjs-schema/master/LICENSE)
 
 ## Licence
 
