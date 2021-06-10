@@ -1,7 +1,6 @@
 ## DApp
 
 # AKASHCLOUD LINK: http://5rc5abldqpdvnaju1l1rc3egug.ingress.ewr1p0.mainnet.akashian.io/
-# DEMO LINK:  https://developer-piyush.github.io/AKASHCLOUD/
 
 A set of example dApps and apps using `ethjs`.
 
