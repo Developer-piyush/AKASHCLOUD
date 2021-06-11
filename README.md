@@ -10,6 +10,15 @@
 
 A set of example dApps and apps using `ethjs`.
 
+# FEATURES OF MY DAPP:
+Account dapp – See your Ethereum accounts and balances
+Ballot dapp – The Ballot.sol dApp from the Solidity Read the docs
+Blockchain explorer – Lookup blocks and transactions on the Etheruem mainnet, via Infura.io
+first contract dapp – Set and Get from a SimpleStore contract
+simple auction dapp – A simple Ethereum auction from the Solidity examples
+token wallet – Send and receive EC20 standard tokens
+tic-tac-toe – A game of tic tac toe, the winner gets the reward!
+
 ## Install
 
 ```
