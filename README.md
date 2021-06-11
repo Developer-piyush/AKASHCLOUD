@@ -1,10 +1,11 @@
 ## DApp
 
-# AKASHCLOUD LINK: http://5rc5abldqpdvnaju1l1rc3egug.ingress.ewr1p0.mainnet.akashian.io/
+# [MY DAPP LINK](http://5rc5abldqpdvnaju1l1rc3egug.ingress.ewr1p0.mainnet.akashian.io/): HOSTED ON AKASH CLOUD
 
 # STEP BY STEP GUIDE FOR NEW DEVELOPERS:
  * [MEDIUM ARTICLE](https://developerpiyush007.medium.com/step-by-step-guide-to-deploy-applications-to-akash-cloud-network-9064ecb90641): STEP-BY-STEP GUIDE FOR NEW DEVELOPERS TO DEPLOY AN APP ON AKASH CLOUD
  * [DOC FILE](https://github.com/Developer-piyush/AKASHCLOUD/blob/main/AKASH_CLOUD_BEGINNERS_GUIDE.docx): DOC FILE
+ * [PDF FILE](https://github.com/Developer-piyush/AKASHCLOUD/blob/main/AKASH_CLOUD_GUIDE_FOR_BEGINNERS.pdf): PDF FILE
 
 
 A set of example dApps and apps using `ethjs`.
