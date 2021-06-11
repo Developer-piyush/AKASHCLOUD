@@ -4,7 +4,7 @@
 
 # STEP BY STEP GUIDE FOR NEW DEVELOPERS:
  * [MEDIUM ARTICLE](https://developerpiyush007.medium.com/step-by-step-guide-to-deploy-applications-to-akash-cloud-network-9064ecb90641): STEP-BY-STEP GUIDE FOR NEW DEVELOPERS TO DEPLOY AN APP ON AKASH CLOUD
- * [PDF](https://github.com/Developer-piyush/ziliqa/tree/master/public/namicorn): PDF GUIDE
+ * [DOC FILE](https://github.com/Developer-piyush/AKASHCLOUD/blob/main/AKASH_CLOUD_BEGINNERS_GUIDE.docx): DOC FILE
 
 
 A set of example dApps and apps using `ethjs`.
