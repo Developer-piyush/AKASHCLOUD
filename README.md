@@ -2,6 +2,8 @@
 
 # AKASHCLOUD LINK: http://5rc5abldqpdvnaju1l1rc3egug.ingress.ewr1p0.mainnet.akashian.io/
 
+# STEP BY STEP GUIDE FOR NEW DEVELOPERS: https://developerpiyush007.medium.com/step-by-step-guide-to-deploy-applications-to-akash-cloud-network-9064ecb90641
+
 A set of example dApps and apps using `ethjs`.
 
 ## Install
