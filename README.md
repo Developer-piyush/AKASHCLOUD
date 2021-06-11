@@ -2,7 +2,10 @@
 
 # AKASHCLOUD LINK: http://5rc5abldqpdvnaju1l1rc3egug.ingress.ewr1p0.mainnet.akashian.io/
 
-# STEP BY STEP GUIDE FOR NEW DEVELOPERS: https://developerpiyush007.medium.com/step-by-step-guide-to-deploy-applications-to-akash-cloud-network-9064ecb90641
+# STEP BY STEP GUIDE FOR NEW DEVELOPERS:
+ * [MEDIUM ARTICLE](https://developerpiyush007.medium.com/step-by-step-guide-to-deploy-applications-to-akash-cloud-network-9064ecb90641): STEP-BY-STEP GUIDE FOR NEW DEVELOPERS TO DEPLOY AN APP ON AKASH CLOUD
+ * [PDF](https://github.com/Developer-piyush/ziliqa/tree/master/public/namicorn): PDF GUIDE
+
 
 A set of example dApps and apps using `ethjs`.
 
